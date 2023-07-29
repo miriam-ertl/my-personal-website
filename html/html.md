@@ -5,7 +5,7 @@
 ### Logo + Navigation
 
 1. monogram?
-2. navigation: Bio, Contact
+2. navigation: Bio, Contact, miscellaneous
 
 ## Main
 
