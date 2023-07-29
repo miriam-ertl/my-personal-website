@@ -18,7 +18,7 @@
 
 **Don't forgert the marquee**
 
-1. Two main Columns
+1. Two main Columns witch bio, skills, philosophie
 2. how to code the flexbox for the 2nd column?
 
 ## Footer
